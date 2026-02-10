@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 ## About Me
 ### 👋 Hi!
 💁 My name is Ala
+</br>
 💻 Computer Science student
+</br>
 🏎️ Motorsport fan
 
 
