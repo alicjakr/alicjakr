@@ -14,15 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
+# About Me
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=&fontSize=90" />
 
+![header](https://capsule-render.vercel.app/api?type=waving)
+
 ### 👋 Hi!
-💁 My name is Ala
+💁  My name is Ala
 </br>
-💻 Computer Science student
+💻  Computer Science student
 </br>
-🏎️ Motorsport fan
+🏎️  Motorsport fan
 
 
 ## TechStack
