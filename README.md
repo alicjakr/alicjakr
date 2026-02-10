@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 
 ## TechStack
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/fdae06a3-7f97-49fb-90ac-c765c5193a8a" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/54ffa784-c8f5-40a8-9ecc-dc9acfa68cf4" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/7bad340e-ae53-4408-8461-eac38199012f" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/cee15acc-bf4c-4735-bab2-7be4ad4ddc50" />
+
