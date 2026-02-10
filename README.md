@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hi👋&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hi👋&color=gradient20)
 
 # About Me
 
