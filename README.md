@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-My name is Ala
+### 👋 Hi!
+💁 My name is Ala
+💻 Computer Science student
+🏎️ Motorsport fan
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello there!&fontSize=90" />
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 ## TechStack
 <img width="64" height="64" alt="python" src="https://github.com/user-attachments/assets/fdae06a3-7f97-49fb-90ac-c765c5193a8a" />
@@ -26,6 +30,3 @@ My name is Ala
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/285d46eb-e56e-4c21-a457-643e0750d3fb" />
 <img width="64" height="64" alt="html" src="https://github.com/user-attachments/assets/7bad340e-ae53-4408-8461-eac38199012f" />
 <img width="64" height="64" alt="css" src="https://github.com/user-attachments/assets/cee15acc-bf4c-4735-bab2-7be4ad4ddc50" />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicjakr)](https://github.com/anuraghazra/github-readme-stats)
-
