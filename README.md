@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 -->
 
 # About Me
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=&fontSize=90" />
-
 ![header](https://capsule-render.vercel.app/api?type=waving)
 
 ### 👋 Hi!
