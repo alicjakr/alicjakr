@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 ## TechStack
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/fdae06a3-7f97-49fb-90ac-c765c5193a8a" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/fdae06a3-7f97-49fb-90ac-c765c5193a8a" />
