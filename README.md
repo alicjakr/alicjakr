@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About Me
 ![header](https://capsule-render.vercel.app/api?type=waving)
+
+# About Me
 
 ### 👋 Hi!
 💁  My name is Ala
