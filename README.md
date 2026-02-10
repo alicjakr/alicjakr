@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=&fontSize=90" />
+
 ### 👋 Hi!
 💁 My name is Ala
 </br>
@@ -22,8 +24,6 @@ Here are some ideas to get you started:
 </br>
 🏎️ Motorsport fan
 
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=&fontSize=90" />
 
 ## TechStack
 <img width="64" height="64" alt="python" src="https://github.com/user-attachments/assets/fdae06a3-7f97-49fb-90ac-c765c5193a8a" />
