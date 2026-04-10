@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </br>
 💻  BSc Computer Science student
 </br>
-🏎️  Motorsport fan
+🏎️  Motorsport fan and automotive engineering enthusiast
 
 
 ## 🖥️  Tech Stack
