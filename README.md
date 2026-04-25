@@ -12,7 +12,7 @@
                    oooooooooo                                                          oooooooooo
 ```
 
-# 🎧  About Me
+# 👾  About Me
 
 👩‍💻  My name is Ala
 </br>
