@@ -45,5 +45,5 @@
 
 
 ## 🎯  Project Goals
-🏁 Simulation-type program related to sports car performace
+🏁 Simulation program related to sports car performace
 
