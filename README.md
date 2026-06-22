@@ -34,6 +34,7 @@
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 
 ### Tools & OS
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -43,8 +44,6 @@
 
 ### Learning
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-
 
 ## 🎯  Project Goals
 🏁 Simulation program related to sports car performace
