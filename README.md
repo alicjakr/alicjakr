@@ -43,8 +43,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Learning
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
 
 ## 🎯  Project Goals
-🏁 Simulation program related to sports car performace
+🏁 Simulation program related to sports car performace - in progress
 
