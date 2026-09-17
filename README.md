@@ -11,7 +11,7 @@
                    oooooooooo                                                          oooooooooo
 ```
 
-# 👾  About Me
+## 👾  About Me
 
 👩‍💻  My name is Ala
 </br>
@@ -40,8 +40,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Learning
 
 
 ## 🎯  Project Goals
